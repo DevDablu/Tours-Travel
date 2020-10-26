@@ -85,7 +85,7 @@
               <span class="icon-phone2"></span>
             </div>
             <h3 class="mb-2">Contact Number</h3>
-            <p><a href="tel://1234567920">+254712345678</a></p>
+            <p><a href="tel://1234567920">+254748474862</a></p>
           </div>
         </div>
         <div class="col-md-3 d-flex">
@@ -94,7 +94,7 @@
               <span class="icon-paper-plane"></span>
             </div>
             <h3 class="mb-2">Email Address</h3>
-            <p><a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
+            <p><a href="mailto:wilstonemngeti@gmail.com">wilstonemngeti@gmail.com</a></p>
           </div>
         </div>
         <div class="col-md-3 d-flex">
@@ -230,9 +230,9 @@
               <ul>
                 <li><span class="icon icon-map-marker"></span><span class="text">Ole Sangale Road, off
                     Langata Road, in Madaraka Estate, Nairobi, Kenya.</span></li>
-                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+254712345678</span></a></li>
+                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+254748474862</span></a></li>
                 <li><a href="#"><span class="icon icon-envelope"></span><span
-                      class="text">info@yourdomain.com</span></a></li>
+                      class="text">wilstonemngeti@gmail.com</span></a></li>
               </ul>
             </div>
           </div>

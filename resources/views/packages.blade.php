@@ -255,8 +255,8 @@
 	              <ul>
 	                <li><span class="icon icon-map-marker"></span><span class="text">Ole Sangale Road, off
 									Langata Road, in Madaraka Estate, Nairobi, Kenya.</span></li>
-	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+254712345678</span></a></li>
-	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@yourdomain.com</span></a></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+254748474862</span></a></li>
+	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">wilstonemngeti@gmail.com</span></a></li>
 	              </ul>
 	            </div>
             </div>
